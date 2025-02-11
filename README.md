@@ -26,9 +26,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularm
 
 Aqui estão alguns exemplos de projetos nos quais trabalhei:
 
-### 📌 [Clima Já]
+### 📌 [Clima Já](https://climaja.onrender.com)
 - **Descrição breve:** Um app de previsão do tempo com busca por cidades, exibição de dados climáticos atualizados e favoritos. Ideal para dispositivos móveis e desktops.
-- **Tecnologias Backend**: Node.js, Express, Prisma, PostgreSQL
+- **Tecnologias Backend**: Node.js, Express, PrismaORM, PostgreSQL, JWT, entre outras.
 - **Repositório:** [GitHub Clima Já!](https://github.com/Gab0885/climaja)
 
 *(Mais projetos serão adicionados em breve!)*
@@ -40,6 +40,7 @@ Aqui estão alguns exemplos de projetos nos quais trabalhei:
 Fique à vontade para entrar em contato comigo para oportunidades ou discussões sobre projetos. Estou sempre aberto a novas conexões e colaborações!
 
 - **Email:** gabrieldg0885@gmail.com
+- **Linkedin:** [Gabriel Dias](https://www.linkedin.com/in/gabriel-dias-122952350/)
 
 ---
 
