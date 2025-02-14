@@ -40,7 +40,7 @@ Aqui estão alguns exemplos de projetos nos quais trabalhei:
 Fique à vontade para entrar em contato comigo para oportunidades ou discussões sobre projetos. Estou sempre aberto a novas conexões e colaborações!
 
 - **Email:** gabrieldg0885@gmail.com
-- **Linkedin:** [Gabriel Dias](https://www.linkedin.com/in/gabriel-dias-dev-web)
+- **Linkedin:** [Gabriel Dias](https://www.linkedin.com/in/gabriel-dias-/)
 
 ---
 
