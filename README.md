@@ -1,6 +1,6 @@
 # Olá, meu nome é Gabriel Dias 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web especializado em backend, com paixão por criar soluções escaláveis e eficientes. Tenho um interesse especial em explorar maneiras de melhorar a performance e a experiência do usuário final.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web fullstack com paixão por criar soluções escaláveis e eficientes. Tenho um interesse especial em explorar maneiras de melhorar a performance e a experiência do usuário final.
 
 ---
 
