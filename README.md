@@ -32,7 +32,7 @@ Aqui estão alguns exemplos de projetos nos quais trabalhei:
 - **Tecnologias:** Typescript, Node.js, Express, Prisma ORM, PostgreSQL, JWT, entre outras.
 - **Repositório:** [GitHub Clima Já!](https://github.com/Gab0885/climaja)
 
-### 📌 [QR Fast](https://github.com/Gab0885/qr-fast)
+### 📌 [QR Fast](https://qrfast.vercel.app)
 - **Descrição:** Uma ferramenta prática e intuitiva para criação e customização de QR Codes, proporcionando uma experiência simples, fácil e direta para conectar conteúdos ao mundo digital.
 - **Tecnologias:** React, Vite, TypeScript, Javascript, SCSS, Bootstrap, React-Bootstrap, qrcode.react entre outros.
 - **Repositório:** [GitHub QR Fast!](https://github.com/Gab0885/qr-fast)
