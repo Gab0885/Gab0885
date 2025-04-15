@@ -55,3 +55,24 @@ Sinta-se à vontade para entrar em contato para oportunidades ou discussões sob
 Se você está buscando um desenvolvedor fullstack comprometido e entusiasmado para agregar valor à sua equipe, vamos conversar! Estou à disposição para contribuir na construção de soluções digitais de alto impacto e entregar resultados excepcionais.
 
 Obrigado por visitar meu perfil! 😊
+
+---
+
+## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="220" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Gab0885&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="220" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab0885&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
