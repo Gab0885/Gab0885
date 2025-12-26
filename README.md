@@ -54,7 +54,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web fullstack com foco e
 Sinta-se à vontade para entrar em contato para oportunidades ou colaborações. Estou sempre aberto a novos desafios e conexões!
 
 - **Email:** gabrieldg0885@gmail.com  
-- **LinkedIn:** [Gabriel Dias](https://www.linkedin.com/in/GabrielDiasG/)
+- **LinkedIn:** [Gabriel Dias](https://www.linkedin.com/in/eugabrieldias/)
 
 ---
 
