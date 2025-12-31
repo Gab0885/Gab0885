@@ -1,6 +1,6 @@
 # Olá, meu nome é Gabriel Dias 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web fullstack com foco em criar aplicações modernas, escaláveis e com ótima experiência para o usuário. Prezo por código limpo, bem estruturado e de fácil manutenção, sempre aliando performance, boas práticas e clareza em cada projeto que desenvolvo.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor focado em desenvolvimento web que cria sites com foco em resolver problemas reais do dia a dia e facilitar a vida das pessoas. Busco sempre escrever um código limpo, intuitivo e de fácil manutenção.
 
 ---
 
@@ -36,12 +36,12 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web fullstack com foco e
 ## 🌟 Projetos Destacados
 
 ### 📌 [Clima Já](https://climaja.onrender.com)
-- **Descrição:** Site de previsão do tempo com busca por cidades, dados climáticos atualizados e sistema de favoritos. Projetado para oferecer uma interface responsiva e intuitiva.
+- **Descrição:** Site de previsão do tempo com busca por cidades, dados climáticos atualizados e sistema de favoritos. Projetado para facilitar a busca da previsão do tempo de maneira mais rápida e fácil possivel.
 - **Tecnologias:** TypeScript, Node.js, Express, PostgreSQL, Prisma, JWT...
 - **Repositório:** [GitHub Clima Já](https://github.com/Gab0885/climaja)
 
 ### 📌 [QR Fast](https://qrfast.vercel.app)
-- **Descrição:** Site prático para gerar e personalizar QR Codes. Projetado com uma interface moderna, responsiva e sendo fácil de usar.
+- **Descrição:** Site prático para gerar e personalizar QR Codes. Projetado para facilitar a criação de QR Codes para empresas e para uso pessoal.
 - **Tecnologias:** React, Vite, TypeScript, SCSS, Bootstrap, qrcode.react...
 - **Repositório:** [GitHub QR Fast](https://github.com/Gab0885/qr-fast)
 
